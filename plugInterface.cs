@@ -1,0 +1,4 @@
+interface plugInterface
+{
+	void charge ();
+}
